@@ -1,0 +1,2 @@
+dataclasses-json==0.6.3
+ipaddr==2.2.0
